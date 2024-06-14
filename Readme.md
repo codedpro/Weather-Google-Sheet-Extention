@@ -1,4 +1,4 @@
-# Google-Sheet-Extension-Weather
+# Weather-Google-Sheet-Extension
 
 This Google Sheets extension provides real-time weather updates for cities listed in a Google Sheet. The script fetches the current temperature for each city from the OpenWeatherMap API and updates the sheet accordingly.
 
